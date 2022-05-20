@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.betrybe.acc.java.bankaccount.ApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-13T02:30:05" hostname="kamila-desktop" time="0.494">
+  <properties/>
+  <testcase name="6 - Executa o método main com sucesso." classname="com.betrybe.acc.java.bankaccount.ApplicationTest" time="0.494"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

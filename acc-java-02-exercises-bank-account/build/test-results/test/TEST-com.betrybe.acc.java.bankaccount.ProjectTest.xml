@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.betrybe.acc.java.bankaccount.ProjectTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-13T02:30:06" hostname="kamila-desktop" time="0.027">
+  <properties/>
+  <testcase name="1 - Verifica se o projeto tem o Apache Commons como dependência." classname="com.betrybe.acc.java.bankaccount.ProjectTest" time="0.014"/>
+  <testcase name="2 - Verifica se existe o arquivo build.gradle." classname="com.betrybe.acc.java.bankaccount.ProjectTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
